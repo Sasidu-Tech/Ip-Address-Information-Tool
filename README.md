@@ -1,5 +1,11 @@
 # 🌐 IP Address Information Tool
 
+## 🎥 Demo
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/gBaK2JnZ)
+
+![ESP32 Wi-Fi Scanner](https://github.com/Sasidu-Tech/Ip-Address-Information-Tool/blob/main/screenshots/IP%20Address%20Information%20Tool%20(8).png)
+
 A Python-based networking utility that analyzes IPv4 and IPv6 addresses and provides detailed network information.
 
 ## 🚀 Features
